@@ -1,8 +1,8 @@
 cask "just-aloud" do
-  version "1.0.0"
-  sha256 "bd8676e401835b50742a51b4ec19e29545f4113ab78fc5a27760fcf6ce9bd5d4"
+  version "1.1.0"
+  sha256 "63e25859937956fa667fa6149ddb68af98284dadcd283d62000453d9d2bb67b7"
 
-  url "https://github.com/Kian-hdr/just-aloud/releases/download/v#{version}/Just-Aloud-#{version}.dmg"
+  url "https://github.com/Kian-hdr/just-aloud/releases/download/just-aloud-v#{version}/Just-Aloud-#{version}.dmg"
   name "Just Aloud"
   desc "Read selected text aloud with playback controls"
   homepage "https://github.com/Kian-hdr/just-aloud"
