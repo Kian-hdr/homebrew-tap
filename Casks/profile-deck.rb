@@ -1,6 +1,6 @@
 cask "profile-deck" do
-  version "0.2.2"
-  sha256 "88fed7a4a32b934aca2c17f496204a5898c8e910c9cda23076eb65ebd7bdd0a2"
+  version "0.2.3"
+  sha256 "943aae4f9c70b75fb9a88f40f3fbe5113eaf894067041bd2c620871ec494fc7c"
 
   url "https://github.com/Kian-hdr/profile-deck/releases/download/v#{version}/Profile-Deck-#{version}-arm64.dmg"
   name "Profile Deck"
